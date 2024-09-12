@@ -1,0 +1,17 @@
+{
+  "name": "web-scraping-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "json2csv": "^6.0.0-alpha.2",
+    "puppeteer": "^23.3.0"
+  }
+}
