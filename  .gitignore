@@ -1,0 +1,12 @@
+# Ignore node_modules folder
+node_modules/
+output/
+
+# Ignore all .env files
+*.env
+
+# Ignore specific file
+scraper.js
+
+# IDE and editor files
+.vscode/
